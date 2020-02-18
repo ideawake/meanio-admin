@@ -17,8 +17,8 @@
   },
   "dependencies": {
     "angular-clipboard": "1.5.0",
-    "meanio-users": "0.1.x",
-    "meanio-circles": "0.1.x",
+    "meanio-users": "git://github.com/ideawake/meanio-users.git#master",
+    "meanio-circles": "git://github.com/ideawake/meanio-circles.git#master",
     "request": "^2.36.0",
     "gridfs-stream": "latest"
   },
